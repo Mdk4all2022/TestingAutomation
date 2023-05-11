@@ -2,8 +2,10 @@ package utils;
 
 public class Cart{
  
-  //From Git hub
+  //From GitHub
   
   // cart created
+    //updated Cart class from local repository
+
   
 }
